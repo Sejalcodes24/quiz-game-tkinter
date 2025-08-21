@@ -27,4 +27,5 @@ Instant Feedback: Shows whether your answer was correct or incorrect after submi
 Section Progress: Displays completion of each section and total score.
 
 Final Grade: Assigns grades (A+, A, B, C, F) based on performance and indicates Pass/Fail.
+
 Dynamic GUI: Question and option buttons update automatically for each question.
