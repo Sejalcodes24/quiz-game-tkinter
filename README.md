@@ -5,7 +5,9 @@ GUI-based quiz game developed in Python using Tkinter. Test your knowledge acros
 Features
 5 Sections:
 Computer Science (Questions 1–5)
+
 General Knowledge (Questions 6–10)
+
 Maths (Questions 11–15)
 History (Questions 16–20)
 Science (Questions 21–25)
